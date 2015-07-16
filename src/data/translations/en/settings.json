@@ -269,7 +269,7 @@
 				"options" : {
 					"choices" : [
 						[ "default", "Default" ],
-						[ "dark", "Dark" ]
+						[ "angular", "Angular" ]
 					]
 				}
 			},
