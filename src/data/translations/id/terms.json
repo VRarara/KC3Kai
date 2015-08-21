@@ -89,7 +89,7 @@
 	"SettingsBattleData" : "Prediksi Pertempuran",
 	"SettingsBattleStamp" : "Marka Kondisi Kanmusu",
 	"SettingsBossComp" : "Susunan Bos",
-	"SettingsYasenTroll" : "Komentar Troll KC3改",
+	"SettingsYasenTroll" : "Komentar Hiburan KC3改",
 	"SettingsHQDelta" : "HQ EXP Delta saat Sorti",
 	
 	"SettingsScreenshot" : "Screenshot",
@@ -116,12 +116,12 @@
 	"SettingsConfirmExit" : "Konfirmasi Keluar",
 	"SettingsScreenMargin" : "Batas Atas",
 	"SettingsBGColor" : "Warna Latar Belakang",
-	"SettingsBGColorDesc" : "Lihat properti background-color CSS",
+	"SettingsBGColorDesc" : "Lihat properti warna background (CSS)",
 	"SettingsBGImage" : "Gambar Latar Belakang",
 	"SettingsBGSize" : "Ukuran Latar Belakang",
-	"SettingsBGSizeDesc" : "Lihat properti background-size CSS",
+	"SettingsBGSizeDesc" : "Lihat properti ukuran background (CSS)",
 	"SettingsBGPosition" : "Posisi Latar Balakang",
-	"SettingsBGPositionDesc" : "Lihat properti background-position CSS",
+	"SettingsBGPositionDesc" : "Lihat properti posisi background (CSS)",
 	"SettingsPlayerScale" : "Skala Tampilan Game",
 
 	"SettingsDMMGameplay" : "Gameplay DMM",
@@ -166,7 +166,7 @@
 	"PredictionStampPvP" : "Tersingkirkan",
 	"PredictionStampEscort" : "Pengawal",
 	"PredictionStampMVPUseful" : "MVP",
-	"PredictionStampMVPUseless" : "Dimaksimalkan",
+	"PredictionStampMVPUseless" : "Kurang Mantap Pak",
 	
 	"EventHistoryRank1"  : "MUDAH",
 	"EventHistoryRank2"  : "SEDANG",
@@ -186,11 +186,11 @@
 	"PanelSupplied" : "Suplai baik",
 	"PanelNotSupplied" : "Perlu isi suplai",
 	"PanelGoodMorale" : "Moral baik",
-	"PanelSupportPower" : "Support Expedition Shelling Power",
+	"PanelSupportPower" : "Damage support expedition",
 	
 	"CombinedCarrier" : "Carrier TF",
 	"CombinedSurface" : "Surface TF",
-	"CombinedNone" : "Tak digabung",
+	"CombinedNone" : "Tunggal",
 
 	"LevelText" : "Level",
 	"LevelShort" : "Lv.",
